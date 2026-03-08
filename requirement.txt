@@ -1,0 +1,4 @@
+Gradio
+Transformers
+Regular Expressions
+ReportLab 
