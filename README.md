@@ -10,7 +10,7 @@ Python FOR Main programming language AND
 SQLite  for storing data
 AND WE USE MANY LIBRARY LIKE
 
-Gradio -To create the user interface
-Transformers / AI model – To understand natural language
-Regular Expressions – To detect conditions like numbers or dates
-ReportLab – To export results as PDF (OR OTHER featureS)
+1. Gradio -To create the user interface
+2. Transformers / AI model – To understand natural language
+3. Regular Expressions – To detect conditions like numbers or dates
+4. ReportLab – To export results as PDF (OR OTHER featureS)
